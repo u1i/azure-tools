@@ -2,7 +2,7 @@
 # Takes an image and gives you a JSON object with face: gender, age etc.
 
 # Azure API endpoint for computer vision
-endpoint=""
+endpoint="http://southeastasia.api.cognitive.microsoft.com/vision/v1.0/analyze"
 
 # Your subscription key
 azure_subscription_key=""
