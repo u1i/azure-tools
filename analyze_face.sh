@@ -5,7 +5,7 @@
 endpoint=""
 
 # Your subscription key
-azure_subscription_key=627fc2f4d28e428d80ec74a66c0c3e4a
+azure_subscription_key=""
 
 pic=$1
 
